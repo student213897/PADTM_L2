@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L02</string>
+    <string name="moj_tekst">Witaj świecie!</string>
+    <string name="moj_tekst2">Hello world!</string>
+    <string name="moj_tekst3">Hallo Welt!</string>
+    <string name="moj_tekst4">Witaj świecie!</string>
+    <string name="moj_tekst5">Witaj świecie!</string>
+    <string name="moj_tekst6">Witaj świecie!</string>
+</resources>
